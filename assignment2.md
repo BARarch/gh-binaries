@@ -1,4 +1,6 @@
 # Assignment 2
+![Small Multiples Header](/images/horses.PNG)
+
 In order to produce the plan composition, the students will be using the output from rhino/grasshopper into photoshop.  Minimal vector work in AutoCAD and illustrator will be 
 required.
 
@@ -14,9 +16,14 @@ Bring your layers to Photoshop and use blend modes for the layers to resolve the
 ## Take a section
 Goto food for rhino and download section tools.  The section tools plugin will provide a poshe and clipping plane for your parametric geometries rhino after they are baked from grasshopper.  The poshe can be exported with any view mode (i.e.: shaded, pen, rendered...) as a png.
 
+![section Tools](/images/sectiontools.PNG)
+
+
 ## Small Multiples
 
 The students will produce 36 drawings [6x6 grid] using the Grassopper->Rhino->Photoshop pipeline from the last lecture.  This is the chance to produce a drawing that shows the progression of your elements when sliders are changed.  There is a template file for the drawings to be draged and dropped into.
+
+![template file](/images/layoutlink.PNG)
 
 * we will be forming a 6x6 matrix of drawings, pick two sliders for your element, vary one along the row and the other along the columns.
 
